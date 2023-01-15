@@ -6,7 +6,7 @@
 		{
 			if (args[1] == "--help")
 			{
-				Console.WriteLine("The Boxy Programming Language")
+				Console.WriteLine("The Boxy Programming Language\nPlease go to https://github.com/FreGitHu/Boxy/blob/master/README.md\n or use --offline-help");
 			}
 
 		}
